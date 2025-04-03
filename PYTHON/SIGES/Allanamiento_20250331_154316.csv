@@ -1,0 +1,5 @@
+id_Allanamiento,Caso Nro.,SISTRATA,Fecha de Ingreso,Modo de Ingreso,Sintesis,Unidad,Región,Provincia,Localidad,Calle,Tipo de Explotación,id_judic
+2,2,132,2021-01-01,preventivo,sin sintesis,uniprojucamay,1,buenos aires,capital federal,9 de julio,sexual,
+3,3,154,2021-02-02,deuncia,con sintesis,uniprojucamay,1,buenos aires,capital federal,virrey liniers,laboral,
+4,4,147,2023-01-01,oficio,con sintesis,uniprojufor,2,formosa,pirane,arturo ilia,labora,
+5,5,148,2024-01-01,denuncia,con sintesis,uniprojuricua,3,cordoba,salsipuedes,juan jose 1234,sexual,
